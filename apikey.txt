@@ -1,0 +1,28 @@
+07e146d546717c2d65887ace6585d5c8
+url ex
+https://api.themoviedb.org/3/movie/popular?api_key=07e146d546717c2d65887ace6585d5c8
+
+          {
+            /* return (
+            <div className="card movie_card">
+              <img
+                src={'https://image.tmdb.org/t/p/w500' + movie.poster_path}
+                className="card-img-top"
+                alt={movie.title}
+              />
+              <div className="card-body">
+                <i
+                  class="fas fa-play play_button"
+                  data-toggle="tooltip"
+                  data-placement="bottom"
+                  title="Play Trailer"
+                ></i>
+                <h5 class="card-title">{movie.title}</h5>
+                <span class="movie_info">{movie.release_date}</span>
+                <span class="movie_info float-right">
+                  <i class="fas fa-star"></i> 9 / 10
+                </span>
+              </div>
+            </div>
+          );*/
+          }
